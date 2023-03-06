@@ -2,23 +2,23 @@ In this case i analysed ecommerce data using python.
 
 To analyze and identify patterns, I used libraries:
 
-  -Pandas
+    -Pandas
   
-  -Numpy
+    -Numpy
   
-  -Matplotlib
+    -Matplotlib
   
-  -Seaborn
+    -Seaborn
 
 Also i calculated product metrics such as:
 
-  -DAU
+    -DAU
   
-  -WAU
+    -WAU
   
-  -Conversion Rate
+    -Conversion Rate
   
-  -Shop Cart Abandonment
+    -Shop Cart Abandonment
   
-  -Average Order Value
+     -Average Order Value
   
