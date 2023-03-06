@@ -10,7 +10,7 @@ To analyze and identify patterns, I used libraries:
   
   -Seaborn
 
-Also i calculated producs metrics such as:
+Also i calculated product metrics such as:
 
   -DAU
   
