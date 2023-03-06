@@ -1,5 +1,7 @@
 In this case i analysed ecommerce data using python.
+
 To analyze and identify patterns, I used libraries:
+
   -Pandas
   -Numpy
   -Matplotlib
