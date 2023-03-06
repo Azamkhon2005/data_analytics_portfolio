@@ -20,5 +20,5 @@ Also i calculated product metrics such as:
   
     -Shop Cart Abandonment
   
-     -Average Order Value
+    -Average Order Value
   
