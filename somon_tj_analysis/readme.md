@@ -1,1 +1,1 @@
-Yo
+The project involves scraping web pages to extract data, converting the scraped data into a table format, and then analyzing the data using Python libraries. The goal of the project is to gather information from source and use it to gain insights and make informed decisions.
