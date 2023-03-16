@@ -4,6 +4,14 @@ Hi there! My name is Azamkhon Buzurukov and I am a data analyst in the making. I
 
 I have been honing my skills in data analysis through various projects. My experience has taught me how to collect, clean, analyze, and visualize data using tools such as Python, SQL, Excel, Tableau, and Redash.
 
+## Portfolio projects:
+
+* [somon tj car analysis](https://github.com/Azamkhon2005/data-analytics/tree/main/somon_tj_analysis/)
+
+* [ecommerse analysis](https://github.com/Azamkhon2005/data-analytics/tree/main/ecommerse_analysis/)
+
+* [spotify analysis](https://github.com/Azamkhon2005/data-analytics/tree/main/sporify-project/)
+
 ## My contacts:
 
   * LinkedIn: https://www.linkedin.com/in/azamkhon-buzurukov/
