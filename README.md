@@ -10,4 +10,4 @@ I have been honing my skills in data analysis through various projects. My exper
   
   * Telegram: [@azamkhon101](https://t.me/@azamkhon101/)
   
-  * E-mail: @abuzurukov2005@gmail.com
+  * E-mail: abuzurukov2005@gmail.com
