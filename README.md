@@ -6,8 +6,8 @@ I have been honing my skills in data analysis through various projects. My exper
 
 ## My contacts:
 
-  *LinkedIn: https://www.linkedin.com/in/azamkhon-buzurukov/
+  * LinkedIn: https://www.linkedin.com/in/azamkhon-buzurukov/
   
-  *Telegram: [@azamkhon101] (https://t.me/@azamkhon101)
+  * Telegram: [@azamkhon101](https://t.me/@azamkhon101/)
   
-  *E-mail: @abuzurukov2005@gmail.com
+  * E-mail: @abuzurukov2005@gmail.com
