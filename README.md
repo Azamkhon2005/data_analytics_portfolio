@@ -12,6 +12,16 @@ I have been honing my skills in data analysis through various projects. My exper
 
 * [spotify analysis](https://github.com/Azamkhon2005/data-analytics/tree/main/sporify-project/)
 
+## Study projects:
+
+* [practicing Python Pandas](https://github.com/Azamkhon2005/data-analytics/tree/main/pandas_practice/)
+
+* [practicing data analysis with Python](https://github.com/Azamkhon2005/data-analytics/tree/main/karpov_courses_python_tasks/)(https://github.com/Azamkhon2005/data-analytics/tree/main/retail_analysis/)
+
+* [SQL practice analysis with product metrics](https://github.com/Azamkhon2005/data-analytics/tree/main/sql%20practice%20analysis/)
+
+* [Tableau Vizzes](https://public.tableau.com/app/profile/azamkhon/)
+
 ## My contacts:
 
   * LinkedIn: https://www.linkedin.com/in/azamkhon-buzurukov/
