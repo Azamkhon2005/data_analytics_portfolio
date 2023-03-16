@@ -1,16 +1,5 @@
-In this case i analysed ecommerce data using python.
+# ecommerse data analysis
 
-To analyze and identify patterns, I used libraries:
-
-    -Pandas
-  
-    -Numpy
-  
-    -Matplotlib
-  
-    -Seaborn
-
-Also i calculated product metrics such as:
 
     -DAU
   
