@@ -14,9 +14,11 @@ I have been honing my skills in data analysis through various projects. My exper
 
 ## Study projects:
 
-* [practicing Python Pandas](https://github.com/Azamkhon2005/data-analytics/tree/main/pandas_practice/)
+* [Learning Python Pandas](https://github.com/Azamkhon2005/data-analytics/tree/main/pandas_practice/)
 
-* [practicing data analysis with Python](https://github.com/Azamkhon2005/data-analytics/tree/main/karpov_courses_python_tasks/)(https://github.com/Azamkhon2005/data-analytics/tree/main/retail_analysis/)
+* [Doing analysis tasks with Python](https://github.com/Azamkhon2005/data-analytics/tree/main/karpov_courses_python_tasks/)
+
+* [practicing data analysis with Python](https://github.com/Azamkhon2005/data-analytics/tree/main/retail_analysis/)
 
 * [SQL practice analysis with product metrics](https://github.com/Azamkhon2005/data-analytics/tree/main/sql%20practice%20analysis/)
 
