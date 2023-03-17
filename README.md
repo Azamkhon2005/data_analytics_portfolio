@@ -6,21 +6,21 @@ I have been honing my skills in data analysis through various projects. My exper
 
 ## Portfolio projects:
 
-* [somon tj car analysis](https://github.com/Azamkhon2005/data-analytics/tree/main/somon_tj_analysis/)
+* [somon tj car analysis](https://github.com/Azamkhon2005/data_analytics_portfolio/tree/main/somon_tj_analysis/)
 
-* [ecommerse analysis](https://github.com/Azamkhon2005/data-analytics/tree/main/ecommerse_analysis/)
+* [ecommerse analysis](https://github.com/Azamkhon2005/data_analytics_portfolio/tree/main/ecommerse_analysis/)
 
-* [spotify analysis](https://github.com/Azamkhon2005/data-analytics/tree/main/sporify-project/)
+* [spotify analysis](https://github.com/Azamkhon2005/data_analytics_portfolio/tree/main/sporify-project/)
 
 ## Study projects:
 
-* [Learning Python Pandas](https://github.com/Azamkhon2005/data-analytics/tree/main/pandas_practice/)
+* [Learning Python Pandas](https://github.com/Azamkhon2005/studing_analytics/tree/main/pandas_practice/)
 
-* [Doing analysis tasks with Python](https://github.com/Azamkhon2005/data-analytics/tree/main/karpov_courses_python_tasks/)
+* [Doing analysis tasks with Python](https://github.com/Azamkhon2005/studing_analytics/tree/main/karpov_courses_python_tasks/)
 
-* [practicing data analysis with Python](https://github.com/Azamkhon2005/data-analytics/tree/main/retail_analysis/)
+* [practicing data analysis with Python](https://github.com/Azamkhon2005/data-analytics/tree/main/online-selling/)
 
-* [SQL practice analysis with product metrics](https://github.com/Azamkhon2005/data-analytics/tree/main/sql%20practice%20analysis/)
+* [SQL practice analysis with product metrics](https://github.com/Azamkhon2005/studing_analytics/tree/main/sql%20practice%20analysis/)
 
 * [Tableau Vizzes](https://public.tableau.com/app/profile/azamkhon/)
 
