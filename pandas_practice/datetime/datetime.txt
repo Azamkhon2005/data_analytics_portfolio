@@ -1,2 +1,0 @@
-https://strftime.org/
-https://towardsdatascience.com/simple-ways-to-manipulate-datetime-variables-with-pandas-cfe9e8d36d24
