@@ -28,6 +28,6 @@ I have been honing my skills in data analysis through various projects. My exper
 
   * LinkedIn: https://www.linkedin.com/in/azamkhon-buzurukov/
   
-  * Telegram: [@azamkhon101](https://t.me/@azamkhon101)
+  * Telegram: [@azamkhon101](t.me/@azamkhon101/)
   
   * E-mail: abuzurukov2005@gmail.com
