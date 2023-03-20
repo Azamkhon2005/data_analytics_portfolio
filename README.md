@@ -6,7 +6,7 @@ I have been honing my skills in data analysis through various projects. My exper
 
 ## Portfolio projects:
 
-* [somon tj car analysis](https://github.com/Azamkhon2005/data_analytics_portfolio/tree/main/somon_tj_analysis/)
+* [somon tj car analysis](https://github.com/Azamkhon2005/somontj_analysis/)
 
 * [ecommerse analysis](https://github.com/Azamkhon2005/data_analytics_portfolio/tree/main/ecommerse_analysis/)
 
