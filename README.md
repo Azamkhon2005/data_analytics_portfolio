@@ -10,6 +10,8 @@ I have been honing my skills in data analysis through various projects. My exper
 
 * [e-commerse analysis](https://github.com/Azamkhon2005/data_analytics_portfolio/tree/main/ecommerse_analysis/)
 
+* [SQL delivery analysis with product metrics](https://github.com/Azamkhon2005/data_analytics_portfolio/tree/main/sql%20practice%20analysis/)
+
 * [spotify analysis](https://github.com/Azamkhon2005/data_analytics_portfolio/tree/main/sporify-project/)
 
 ## Study projects:
