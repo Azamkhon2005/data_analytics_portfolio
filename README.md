@@ -20,8 +20,6 @@ I have been honing my skills in data analysis through various projects. My exper
 
 * [practicing data analysis with Python](https://github.com/Azamkhon2005/studing_analytics/tree/main/online-selling/)
 
-* [SQL practice analysis with product metrics](https://github.com/Azamkhon2005/studing_analytics/tree/main/sql%20practice%20analysis/)
-
 * [Tableau Vizzes](https://public.tableau.com/app/profile/azamkhon/)
 
 ## My contacts:
