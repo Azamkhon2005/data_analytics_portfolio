@@ -4,6 +4,8 @@ Hi there! My name is Azamkhon Buzurukov and I am a data analyst in the making. I
 
 I have been honing my skills in data analysis through various projects. My experience has taught me how to collect, clean, analyze, and visualize data using tools such as Python, SQL, Excel, Tableau, and Redash.
 
+My CV is [here](https://github.com/Azamkhon2005/data_analytics_portfolio/blob/main/Azamkhon_Buzurukov_CV%20.pdf)
+
 ## Portfolio projects:
 
 * [somon tj car analysis](https://github.com/Azamkhon2005/somontj_analysis/)
