@@ -1,8 +1,9 @@
 # SAIDAZAMKHON BUZURUKOV 
 
-Hi there! My name is Saidzamkhon Buzurukov and I am a data analyst in the making. I have always been fascinated by the power of data and how it can be used to drive business decisions and solve complex problems. 
+Hi there! My name is Saidazamkhon Buzurukov and I am a data analyst in the making. I have always been fascinated by the power of data and how it can be used to drive business decisions and solve complex problems. 
 
-I have been honing my skills in data analysis through various projects. My experience has taught me how to collect, clean, analyze, and visualize data using tools such as Python, SQL, Excel, Tableau, and Redash.
+I have experience working with data: analysis, manipulation, visualization, as well as experience in statistical
+analysis and hypothesis testing. Data analysis projects have been completed using tools such as Python, SQL, Tableau, Excel and Redash.
 
 My CV is [here](https://github.com/Azamkhon2005/data_analytics_portfolio/blob/main/Azamkhon_Buzurukov_CV.pdf)
 
