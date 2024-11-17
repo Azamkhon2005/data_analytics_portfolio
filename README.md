@@ -5,7 +5,7 @@ Hi there! My name is Saidazamkhon Buzurukov and I am a data analyst in the makin
 I have experience working with data: analysis, manipulation, visualization, as well as experience in statistical
 analysis and hypothesis testing. Data analysis projects have been completed using tools such as Python, SQL, Tableau, Excel and Redash.
 
-My CV is [here](https://github.com/Azamkhon2005/data_analytics_portfolio/blob/main/Azamkhon_Buzurukov_CV.pdf)
+My CV is [here]([https://github.com/Azamkhon2005/data_analytics_portfolio/blob/main/Azamkhon_Buzurukov_CV.pdf](https://github.com/Azamkhon2005/data_analytics_portfolio/blob/main/%D0%91%D1%83%D0%B7%D1%83%D1%80%D1%83%D0%BA%D0%BE%D0%B2_%D0%A1%D0%B0%D0%B8%D0%B4%D0%B0%D0%B7%D0%B0%D0%BC%D1%85%D0%BE%D0%BD_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf))
 
 ## Portfolio projects:
 
