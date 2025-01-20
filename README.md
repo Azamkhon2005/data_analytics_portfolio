@@ -15,7 +15,7 @@ My CV is [here](https://github.com/Azamkhon2005/data_analytics_portfolio/blob/ma
 
 * [SQL delivery analysis with product metrics](https://github.com/Azamkhon2005/data_analytics_portfolio/tree/main/sql%20delivery%20analysis/)
 
-* [spotify analysis](https://github.com/Azamkhon2005/data_analytics_portfolio/tree/main/sporify-project/)
+* [spotify analysis](https://github.com/Azamkhon2005/data_analytics_portfolio/tree/main/spotify)
 
 ## Study projects:
 
